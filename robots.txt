@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-js3143.date-me.pro/sitemap.xml
